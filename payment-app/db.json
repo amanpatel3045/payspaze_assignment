@@ -1,0 +1,20 @@
+{
+  "payments": [
+    {
+      "id": "2aaf",
+      "to": "a@gmail.com",
+      "from": "BTC",
+      "amount": 11,
+      "description": "a",
+      "transactionId": "TX-1Z62VQ5G"
+    },
+    {
+      "id": "ad2f",
+      "to": "aman@gmail.com",
+      "from": "ETH",
+      "amount": 55,
+      "description": "a",
+      "transactionId": "TX-W0V45UR3"
+    }
+  ]
+}
