@@ -1,5 +1,5 @@
 
-# Crypto Payment Application
+# Payment Application
 
 A single-page application built with React and shadcn/ui that simulates cryptocurrency payments.
 
